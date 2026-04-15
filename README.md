@@ -10,7 +10,7 @@ Just an Evil Genius
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abdullahon2006&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Abdullahon2006&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahon2006&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahon2006&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=abdullahon2006&icon=2&color=2)](https://visitcount.itsvg.in)
