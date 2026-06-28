@@ -1,5 +1,5 @@
 # Bio:
-Just an Evil Genius
+I (try to) solve problems.
 
 
 ## 🌐 Socials:
